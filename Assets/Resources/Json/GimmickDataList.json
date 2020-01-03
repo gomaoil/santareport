@@ -1,0 +1,534 @@
+{
+  "DataList": [
+    {
+    	"name" : "OneBedA",
+    	"score": "0",
+    	"text1": "枕の下に穴の開いたハンカチが置いてある",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "OneTrashA",
+    	"score": "0",
+    	"text1": "何度も書き直したぐちゃぐちゃな手紙が捨てられている\n「…ご…えんだ…かんつ…るてじながや…たい…」\nかすれていて読めない",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "OneTableBookA",
+    	"score": "0",
+    	"text1": "広辞苑や漢和辞典が並んでいる",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "OneChairA",
+    	"score": "0",
+    	"text1": "ふかふかだ",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "OneXmastreeA",
+    	"score": "0",
+    	"text1": "ぴかぴかした飾りと\nピンクの丸いのがぶらさがっている",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "OneXmaswreathA",
+    	"score": "20",
+    	"text1": "うわ、クリスマスリースに監視カメラ！なぜ！？\n【レポートに記録した！】",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": "クリスマスリースにカメラあり"
+    },
+    {
+    	"name" : "OneBookA1",
+    	"score": "10",
+    	"text1": "あっ！学研の本とみせかけたエッチな本だ！\n【レポートに記録した！】",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": "学研の本は危険なので触るな"
+    },
+    {
+    	"name" : "OneBookA2",
+    	"score": "0",
+    	"text1": "漢和辞典、英和辞典、広辞苑、大辞林、すごいアフリカ\nよくわかる解剖学、初心者マジック入門、世界の手品大全\nどうぶつ大集合図鑑、ネコでもわかるC#プログラミング",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "OneBookA3",
+    	"score": "0",
+    	"text1": "世界の歴史の子供向けコミカライズ全24冊",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "OnePlantA",
+    	"score": "20",
+    	"text1": "観葉植物とみせかけた小型ビデオカメラだ！\n【レポートに記録した！】",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": "観葉植物にカメラあり"
+    },
+    {
+    	"name" : "OneWindowA",
+    	"score": "30",
+    	"text1": "セコムがついている。窓を開けるときは解除が必要\n【レポートに記録した！】",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": "窓のセコムに注意"
+    },
+    {
+    	"name" : "OneCurtainA",
+    	"score": "20",
+    	"text1": "窓を開けるとダーツが飛んでくる仕掛けを見つけた！\n【レポートに記録した！】",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": "カーテン触るとダーツにやられる"
+    },
+    {
+    	"name" : "OneCurtainB",
+    	"score": "0",
+    	"text1": "触り心地の良い布のカーテンだ",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "OneShelfA1",
+    	"score": "0",
+    	"text1": "Mr.マリックや引田天功のブロマイドだ\n丁寧にファイリングされている",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "OneShelfA2",
+    	"score": "0",
+    	"text1": "カギやペンが煩雑に置かれている",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "OneShelfA3",
+    	"score": "0",
+    	"text1": "変な形にカットされたトランプがいくつもある",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "OneCoinA",
+    	"score": "0",
+    	"text1": "最新機種だ",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "OneMatA",
+    	"score": "0",
+    	"text1": "ふかふかのカーペットの上に\n500円玉が落ちている",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "OneLetterA",
+    	"score": "0",
+    	"text1": "「サンタさん…いや、お父さん、去年は広辞苑ありがとう\n今年は算数ドリル集でいいよ。\n有名な中学校に入るためにがんばるね」",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "TwoBedA",
+    	"score": "0",
+    	"text1": "布団の中におもちゃが大量に入っている…\nゼルダの伝説 ブレスオブザワイルド、Nintendo Switch、\nポケットカメラ、でんじゃらすじーさん1巻",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "TwoBedB",
+    	"score": "0",
+    	"text1": "布団の中におもちゃが大量に入っている…\nプラレールの車両、イーブイ版たまごっち、\nダウンタウン熱血行進曲 それゆけ大運動会",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "TwoComicA",
+    	"score": "0",
+    	"text1": "ドラゴンボールの5巻がある",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "TwoClockA",
+    	"score": "10",
+    	"text1": "なぜか深夜3時に設定された目覚まし時計がある！\n【レポートに記録した！】",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": "深夜3時に目覚ましが鳴る"
+    },
+    {
+    	"name" : "TwoTrashA",
+    	"score": "5",
+    	"text1": "食べ残しが捨てられており、強烈な異臭だ！\n【レポートに記録した！】",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": "ゴミ箱くさいからのぞくな"
+    },
+    {
+    	"name" : "TwoTrashB",
+    	"score": "0",
+    	"text1": "捨ててあるメモを拾った…\n「2019べすとげーむ どらくえびるだーず２\nあそべてないけど くろのとりがー",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "TwoTableBookA",
+    	"score": "0",
+    	"text1": "鳥山明の画集がずらっとならんでいる",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "TwoChairA",
+    	"score": "5",
+    	"text1": "うっかり座るとブーッと音が鳴るクッションだ！\n【レポートに記録した！】",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": "イスに座るとブーと鳴る"
+    },
+    {
+    	"name" : "TwoChairB",
+    	"score": "0",
+    	"text1": "ふかふかだ",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "TwoXmastreeA",
+    	"score": "0",
+    	"text1": "ごくごく一般的なクリスマスツリー\n…とみせかけて、飾りが全部スワロフスキーだ！",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "TwoXmastreeB",
+    	"score": "10",
+    	"text1": "ごくごく一般的なクリスマスツリー\n…と見せかけて、監視カメラが設置されている！\n【レポートに記録した！】",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": "クリスマスツリーにカメラあり"
+    },
+    {
+    	"name" : "TwoXmaswreathA",
+    	"score": "10",
+    	"text1": "こんなところにも監視カメラが設置されている！\n【レポートに記録した！】",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": "クリスマスリースにカメラあり"
+    },
+    {
+    	"name" : "TwoBookA1",
+    	"score": "0",
+    	"text1": "ゲームソフトのパッケージがたくさん並んでいる\nドラクエモンスターズ、ドラクエXI 3DS、\nルイージマンション3",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "TwoBookA2",
+    	"score": "0",
+    	"text1": "ドラゴンボールが全巻そろっているとみせかけて、\n5巻だけない",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "TwoBookA3",
+    	"score": "0",
+    	"text1": "ファミ通 2016年3.24号が大切にしまってある\nレトロゲーム紹介ページに付箋が貼られている",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "TwoBookB1",
+    	"score": "10",
+    	"text1": "うわっ…こんなところにも監視カメラがある！\n【レポートに記録した！】",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": "本棚にカメラあり"
+    },
+    {
+    	"name" : "TwoBookB2",
+    	"score": "5",
+    	"text1": "紐にひっかかると鈴が鳴る仕掛けを見つけた！\n【レポートに記録した！】",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": "本棚の本に触ると鈴が鳴る"
+    },
+    {
+    	"name" : "TwoBookB3",
+    	"score": "0",
+    	"text1": "ゲームソフトのパッケージがたくさん並んでいる…\nディズニーマジックキングダム、クロノ・トリガー\nとびだせ！どうぶつの森、ドラゴンクエストXIS",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "TwoWindowA",
+    	"score": "10",
+    	"text1": "窓の外にめちゃくちゃ吠えそうな犬がいる！\n【レポートに記録した！】",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": "犬に注意"
+    },
+    {
+    	"name" : "TwoCurtainA",
+    	"score": "0",
+    	"text1": "ごくごく普通の遮光カーテンだ",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "TwoCurtainB",
+    	"score": "0",
+    	"text1": "ちょっとやぶけた遮光カーテンだ",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "TwoShelfA1",
+    	"score": "5",
+    	"text1": "本の間に煩雑にカッターやドライバーがしまわれている！\nあぶない！\n【レポートに記録した！】",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": "棚のカッターがあぶない"
+    },
+    {
+    	"name" : "TwoShelfA2",
+    	"score": "0",
+    	"text1": "ファミコンソフトについて書かれたノートだ…\n1990年発売 ダウンタウン熱血行進曲 それゆけ大運動会(FC)\n1993年発売 星のカービィ 夢の泉の物語(FC)",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "TwoShelfA3",
+    	"score": "5",
+    	"text1": "音に反応して歌う狂ったインコのおもちゃがある！\n【レポートに記録した！】",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": "音に反応するインコのおもちゃに注意"
+    },
+    {
+    	"name" : "TwoShelfB1",
+    	"score": "0",
+    	"text1": "ファミコンがある",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "TwoShelfB2",
+    	"score": "5",
+    	"text1": "人感センサーで電気がつくおもちゃがある！\n【レポートに記録した！】",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": "棚に近づくと電気がつく"
+    },
+    {
+    	"name" : "TwoShelfB3",
+    	"score": "5",
+    	"text1": "レゴブロックが大量に入っている箱がある。\nうっかりひっくりかえしたら、まきびしになってしまう！\n【レポートに記録した！】",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": "レゴブロックまきびしに注意"
+    },
+    {
+    	"name" : "TwoPlantA",
+    	"score": "0",
+    	"text1": "ちょっと枯れそうだ",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "TwoPlantB",
+    	"score": "0",
+    	"text1": "元気がない",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "TwoPCA",
+    	"score": "10",
+    	"text1": "うわっ！この部屋の様子が常にニコ生で配信されてる！\n【レポートに記録した！】",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": "この部屋は常にニコ生で配信されている"
+    },
+    {
+    	"name" : "TwoMatA",
+    	"score": "5",
+    	"text1": "このマットちょっとすべる！転ばないように注意しなきゃ\n【レポートに記録した！】",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": "部屋のマットがすべる"
+    },
+    {
+    	"name" : "TwoLetterA",
+    	"score": "0",
+    	"text1": "サンタさんへ\n弟がほしいものが 俺はほしい",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "TwoLetterB",
+    	"score": "0",
+    	"text1": "ｻﾀﾝさんえ、さいきん、おとうさんにあそびたいげーむ\nを、かってもいましたが、すいっちでうごきません！うご\nくようにしてほしいです。おねがいします",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    },
+    {
+    	"name" : "Dummy",
+    	"score": "999999",
+    	"text1": "俺は上書きしちゃいけないぜ。追加するなら俺の上にだ！",
+    	"text2": "",
+    	"text3": "",
+    	"text4": "",
+    	"text5": "",
+    	"report": ""
+    }
+  ]
+}
